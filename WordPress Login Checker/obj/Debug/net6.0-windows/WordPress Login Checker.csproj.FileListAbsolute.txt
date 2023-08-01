@@ -1,0 +1,17 @@
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\bin\Debug\net6.0-windows\WordPress Login Checker.exe
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\bin\Debug\net6.0-windows\WordPress Login Checker.deps.json
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\bin\Debug\net6.0-windows\WordPress Login Checker.runtimeconfig.json
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\bin\Debug\net6.0-windows\WordPress Login Checker.dll
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\bin\Debug\net6.0-windows\WordPress Login Checker.pdb
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress_Login_Checker.Form1.resources
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.csproj.GenerateResource.cache
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.AssemblyInfo.cs
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.dll
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\refint\WordPress Login Checker.dll
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.pdb
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\WordPress Login Checker.genruntimeconfig.cache
+C:\Users\Will\Desktop\Projelerim\WordPress Login Checker\obj\Debug\net6.0-windows\ref\WordPress Login Checker.dll
